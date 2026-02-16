@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wherleybird
-- 👀 I’m interested in Sports Betting, Football, and Traveling
+- 👀 I’m interested in Soccer & Coding
 - 🌱 I’m currently learning Java and beginning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
